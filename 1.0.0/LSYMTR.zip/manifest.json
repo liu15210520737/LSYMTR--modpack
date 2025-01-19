@@ -1,0 +1,133 @@
+{
+  "minecraft": {
+    "version": "1.19.4",
+    "modLoaders": [
+      {
+        "id": "fabric-0.16.10",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "LSYMTR",
+  "author": "",
+  "files": [
+    {
+      "projectID": 244260,
+      "fileID": 4444346,
+      "required": true
+    },
+    {
+      "projectID": 459496,
+      "fileID": 4627482,
+      "required": true
+    },
+    {
+      "projectID": 448233,
+      "fileID": 5968675,
+      "required": true
+    },
+    {
+      "projectID": 324717,
+      "fileID": 4649113,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 5846851,
+      "required": true
+    },
+    {
+      "projectID": 394468,
+      "fileID": 4437119,
+      "required": true
+    },
+    {
+      "projectID": 459857,
+      "fileID": 4441951,
+      "required": true
+    },
+    {
+      "projectID": 447673,
+      "fileID": 4437313,
+      "required": true
+    },
+    {
+      "projectID": 433518,
+      "fileID": 3821870,
+      "required": true
+    },
+    {
+      "projectID": 360438,
+      "fileID": 4439705,
+      "required": true
+    },
+    {
+      "projectID": 248787,
+      "fileID": 4770823,
+      "required": true
+    },
+    {
+      "projectID": 511319,
+      "fileID": 4665635,
+      "required": true
+    },
+    {
+      "projectID": 303119,
+      "fileID": 4519977,
+      "required": true
+    },
+    {
+      "projectID": 308702,
+      "fileID": 5162830,
+      "required": true
+    },
+    {
+      "projectID": 225608,
+      "fileID": 4445118,
+      "required": true
+    },
+    {
+      "projectID": 349239,
+      "fileID": 4446319,
+      "required": true
+    },
+    {
+      "projectID": 335493,
+      "fileID": 5959781,
+      "required": true
+    },
+    {
+      "projectID": 306612,
+      "fileID": 4834896,
+      "required": true
+    },
+    {
+      "projectID": 263420,
+      "fileID": 6012832,
+      "required": true
+    },
+    {
+      "projectID": 266707,
+      "fileID": 4505552,
+      "required": true
+    },
+    {
+      "projectID": 533097,
+      "fileID": 4732281,
+      "required": true
+    },
+    {
+      "projectID": 521783,
+      "fileID": 3835973,
+      "required": true
+    },
+    {
+      "projectID": 60089,
+      "fileID": 4440210,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}

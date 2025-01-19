@@ -1,0 +1,403 @@
+{
+  "game": "minecraft",
+  "formatVersion": 1,
+  "versionId": "1.0.0",
+  "name": "LSYMTR",
+  "summary": "一个个人的小型MTR整合包。",
+  "files": [
+    {
+      "path": "mods/[苹果皮] appleskin-fabric-mc1.19.4-2.5.1.jar",
+      "hashes": {
+        "sha1": "702e8f1e14734e24128d7f854988a19c7ab76170",
+        "sha512": "833cfec3a67c1a868037b3445d7c8b50406b50cec18be51026fb03885552f110579aafe9a6d9ce4297ae29fbe155eb9995760265e04ecd1fa2272e5c74a0cd1a"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/EsAfCjCV/versions/aIpOZwoo/appleskin-fabric-mc1.19.4-2.5.1.jar"
+      ],
+      "fileSize": 1062919
+    },
+    {
+      "path": "mods/tabtps-fabric-mc1.19.4-1.3.17.jar",
+      "hashes": {
+        "sha1": "4e8b4f0e82234b02438405c8b7246b27cd122e18",
+        "sha512": "57091b1df6351c72b2abf8f52ee888d563ff8ff2a07e4a1755f41bfb9e0f19017a6971e2acac3ce66333d6a14147566760b20406d12c17958b5d557d146f01ca"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/cUhi3iB2/versions/iYZraQpM/tabtps-fabric-mc1.19.4-1.3.17.jar"
+      ],
+      "fileSize": 2135860
+    },
+    {
+      "path": "mods/[模组菜单] modmenu-6.3.1.jar",
+      "hashes": {
+        "sha1": "ab2736e00597ba8b11e4f58573eb49c79e0417b4",
+        "sha512": "396a22fb6c23483bea40b17e21185bcc56c77a736f52e5cda9b3ac799e4e0aac78e396476162f9166fcb56203be1d1071de04971a9b4feb8f4f6ea6103125f0d"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/mOgUt4GM/versions/lMqXEzUw/modmenu-6.3.1.jar"
+      ],
+      "fileSize": 725106
+    },
+    {
+      "path": "mods/[DFU载入优化] lazydfu-0.1.3.jar",
+      "hashes": {
+        "sha512": "dc3766352c645f6da92b13000dffa80584ee58093c925c2154eb3c125a2b2f9a3af298202e2658b039c6ee41e81ca9a2e9d4b942561f7085239dd4421e0cce0a",
+        "sha1": "0dfa8b03ed408fb7fdada29e01cfebba02af1049"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.3/lazydfu-0.1.3.jar"
+      ],
+      "fileSize": 14531
+    },
+    {
+      "path": "mods/[玉 🔍] Jade-1.19.4-fabric-10.4.0.jar",
+      "hashes": {
+        "sha512": "c5ae70fb5d3f031c61427422b1166254f17b529a68ad2e9282d8cfee6fe1a5446dfc773209a0d3ccb807c267406da36c9f7d3f8d746363ab2b2420f253586808",
+        "sha1": "62f3f2a769d8d3ec8bf12423a07257995a7bffd9"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nvQzSEkH/versions/4bCqgRsR/Jade-1.19.4-fabric-10.4.0.jar"
+      ],
+      "fileSize": 463672
+    },
+    {
+      "path": "mods/MTR-NTE-0.5.2+1.19.4.jar",
+      "hashes": {
+        "sha512": "d61bb5bb31ad1feecf97fdd91231170368b5943b08100ab79ec1b5fddc6faa770de0cc08466beae9a5f84a64240a159b8cac466c8bc9afe45ad3c326ec4918a6",
+        "sha1": "32b8fafe4240b8bc266efd19053bdbb4af1e241d"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/8pXSjgW8/versions/JcADLY4p/MTR-NTE-0.5.2%2B1.19.4.jar"
+      ],
+      "fileSize": 21849852
+    },
+    {
+      "path": "mods/MTR-MSD-Addon-fabric-1.19.4-3.2.2-1.3.4-enhancement-1.jar",
+      "hashes": {
+        "sha512": "63047bc0b7168888a2cecad59f352b02ad07153566ed3f6227728aaf25f50617afc65b91a4464cfda799204e56e30d239468b1a9261272279c59e6fde24a292d",
+        "sha1": "37df38a806b25d989e6e9e4f34b952e98656fa66"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/AM3NyLOZ/versions/uckw2Zw0/MTR-MSD-Addon-fabric-1.19.4-3.2.2-1.3.4-enhancement-1.jar"
+      ],
+      "fileSize": 4892469
+    },
+    {
+      "path": "mods/[铟] indium-1.0.19+mc1.19.4.jar",
+      "hashes": {
+        "sha512": "676e217ba05ff49c3e8d5d801f7c157b5b988eb21a44694d5c72a279dcdfe30933f57639a66d9f49b9b10c26edb288e8aa212ba27d4bd9abe0212c52b2e9b193",
+        "sha1": "55638e279d8a19ea5df67ff86feb6350e95376e1"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Orvt0mRa/versions/oYQsfz9e/indium-1.0.19%2Bmc1.19.4.jar"
+      ],
+      "fileSize": 104841
+    },
+    {
+      "path": "mods/fabric-api-0.87.2+1.19.4.jar",
+      "hashes": {
+        "sha1": "586ac174c831da9fd35edce1e36eb14c7f878ce3",
+        "sha512": "d839c678699130db605ac580484b5193c302dfa1ed91014c138cb1354874cef0d16580c7c11bedece3cf8a027ddbb4755d4924f6045970a6af608ff0fed898eb"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/nyAmoHlr/fabric-api-0.87.2%2B1.19.4.jar"
+      ],
+      "fileSize": 2055860
+    },
+    {
+      "path": "mods/[钠] sodium-fabric-mc1.19.4-0.4.10+build.24.jar",
+      "hashes": {
+        "sha512": "61562626870aa4067657d2687d1fce80fb7d62af32fd68a22708e24ee5b84b39d16b26ccf4db8f53f2da42ba1916d6a5e11efc476cb5c2a8644207659fd5dfef",
+        "sha1": "b060680929d7a6d130fb980a9f9907461df05fa1"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/AANobbMI/versions/b4hTi3mo/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar"
+      ],
+      "fileSize": 711302
+    },
+    {
+      "path": "mods/iris-mc1.19.4-1.6.11.jar",
+      "hashes": {
+        "sha1": "1b7a1a5831fc39a0a74582497be9bb03dcb9f7f6",
+        "sha512": "21ccce28b7db38abc8cd04ff34b0f039dd2091a484327c5d131b4c0ae42af04ece749f39bdb042e272fc69d5cce99ba8336291410f4aac2d460b51ae133588e1"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/YL57xq9U/versions/wN6PuLPa/iris-mc1.19.4-1.6.11.jar"
+      ],
+      "fileSize": 2400809
+    },
+    {
+      "path": "mods/starlight-1.1.1+fabric.ae22326.jar",
+      "hashes": {
+        "sha512": "68f81298c35eaaef9ad5999033b8caf886f3c583ae1edc25793bdd8c2cbf5dce6549aa8d969c55796bd8b0d411ea8df2cd0aaeb9f43adf0691776f97cebe1f9f",
+        "sha1": "de6fe932555604345477db89b59d59249909c640"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/H8CaAYZC/versions/1.1.1%2B1.19/starlight-1.1.1%2Bfabric.ae22326.jar"
+      ],
+      "fileSize": 127465
+    },
+    {
+      "path": "mods/[迷你HUD] minihud-fabric-1.19.4-0.26.2.jar",
+      "hashes": {
+        "sha512": "9ef86035c8d005d8a68e9289d409f614c84ec3e24bec007ea3c3d528a73030769936ce42afa9b21669d5ee6d84d7927725df7bd99b5b8dc92cc10881ddb3b30b",
+        "sha1": "a52eec62cbad969f0a2faa7e30e8a47a9d2392e0"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/UMxybHE8/versions/CNq8akV2/minihud-fabric-1.19.4-0.26.2.jar"
+      ],
+      "fileSize": 328620
+    },
+    {
+      "path": "mods/malilib-fabric-1.19.4-0.15.4.jar",
+      "hashes": {
+        "sha1": "60b946fa1bf466e80a5e4dc410d1de262c2fd694",
+        "sha512": "377ff0f3009f17a664a799427d3d7bee2b06e99fca4448467bcf8fe7e160e780d1fca8f5f5ae0c9a78dfa4d4426243190f5eee355373f171887bd7630976aa33"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/GcWjdA9I/versions/jYVl3riT/malilib-fabric-1.19.4-0.15.4.jar"
+      ],
+      "fileSize": 525560
+    },
+    {
+      "path": "mods/[Reese的钠视频界面] reeses_sodium_options-1.6.3+mc1.19.4-build.90.jar",
+      "hashes": {
+        "sha1": "4a44da582bd62761f2f7d5eb8a9753a132a72427",
+        "sha512": "f263a7caeb5918448cd6762195d61015d3ff000482630d306db169fc0aa59d500253f8be9fb4ad55d434850b12f8182f8b00339b9fd05061b47b8b1d84020e9c"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Bh37bMuy/versions/vjKE54Zq/reeses_sodium_options-1.6.3%2Bmc1.19.4-build.90.jar"
+      ],
+      "fileSize": 69972
+    },
+    {
+      "path": "mods/sodium-extra-0.4.18+mc1.19.4-build.100.jar",
+      "hashes": {
+        "sha512": "20a4b8aaae0462a408c3222bf41c14d44cee116e4037d8161f7c17e6329b558765f8c6732e0b97abb0273f4be1fb98685f9fa35b2d6dfb7a138ed7d17dfac331",
+        "sha1": "7e6d64f8a5ac5a64be79547e4a9a7d21e9f5597f"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/PtjYWJkn/versions/YknbqkHe/sodium-extra-0.4.18%2Bmc1.19.4-build.100.jar"
+      ],
+      "fileSize": 326095
+    },
+    {
+      "path": "mods/[JEI物品管理器] jei-1.19.4-fabric-13.1.0.19.jar",
+      "hashes": {
+        "sha512": "1fccdf975cf17ac1eda11dbabbbd460036a13e813ee035be6b0f4a092d736580035e1f92aa19fd7100b5a501db75244a9bf78b60692c0f7c160bd92ac89b54a8",
+        "sha1": "aa0736011553c4dc9bb1e0618ccd609a10f3d167"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/u6dRKJwZ/versions/j7k624he/jei-1.19.4-fabric-13.1.0.19.jar"
+      ],
+      "fileSize": 1110307
+    },
+    {
+      "path": "mods/c2me-fabric-mc1.19.4-0.2.0+alpha.10.66.jar",
+      "hashes": {
+        "sha512": "1cbb1fe9b3538d953e341b499c67001f9fb142bf24853a6133dbc091aa8757d47d9949a1bc04106676cfb0b3ac280409fe017c1e3d4194bf35bb606eaea6c79d",
+        "sha1": "5c681eb7358d91faf52c7b57d590c4fa274a6847"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/VSNURh3q/versions/uZ1nQtIu/c2me-fabric-mc1.19.4-0.2.0%2Balpha.10.66.jar"
+      ],
+      "fileSize": 1298898
+    },
+    {
+      "path": "mods/[动态 FPS] dynamic-fps-3.7.7+minecraft-1.19.4-fabric.jar",
+      "hashes": {
+        "sha512": "e8574639c8bfff4fe243d1c6e67bbfa1ff1d0f9a6758ff0ad7266de0e66de096653b090e597c48c27c208c7e8a80d3d74b35789c7ca1d2ff76b78951c007e05d",
+        "sha1": "e555449abf1eb60caecc6a90bff0b73305a3c206"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/LQ3K71Q1/versions/G5p8FtpZ/dynamic-fps-3.7.7%2Bminecraft-1.19.4-fabric.jar"
+      ],
+      "fileSize": 187771
+    },
+    {
+      "path": "mods/lithium-fabric-mc1.19.4-0.11.1.jar",
+      "hashes": {
+        "sha1": "69aa137957af4f0f701f6a7663c6d8646f84a1cc",
+        "sha512": "f2bd271e30e5ed9f097d592db5e859208a1c6abe727dc51f83879b837c843b4f6453e99f1ca8d5225f896233ab8f7dbbb3300f10396d2a1cd2957937acfd1aa7"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/14hWYkog/lithium-fabric-mc1.19.4-0.11.1.jar"
+      ],
+      "fileSize": 639391
+    },
+    {
+      "path": "mods/[实体渲染机制优化] entityculling-fabric-1.7.2-mc1.19.4.jar",
+      "hashes": {
+        "sha1": "892aedb620fa65ae9852ab21eda3a5ca8f777811",
+        "sha512": "7230289c2130be8471ac1dc5375593c6b05048a13bcfead3d8c409a3329193016168ba35b0a90408831b5c2fa94220b4afb58d4b8b7e992cc9eb0664ad04627f"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NNAgCjsB/versions/HKmDd12e/entityculling-fabric-1.7.2-mc1.19.4.jar"
+      ],
+      "fileSize": 68932
+    },
+    {
+      "path": "mods/ferritecore-5.2.0-fabric.jar",
+      "hashes": {
+        "sha512": "56a4ac2ed002260ee451fa9d33169ddcd01473bf46eee97061666b13fa386cd23e15238a72729e55f32d81cce8ae049c80caabf1947ba998258282226289be0c",
+        "sha1": "ed6fa9a9365d4e58db6703479a44cc6aed5add2f"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uXXizFIs/versions/RbR7EG8T/ferritecore-5.2.0-fabric.jar"
+      ],
+      "fileSize": 124924
+    },
+    {
+      "path": "mods/MTR-fabric-1.19.4-3.2.2-hotfix-1.jar",
+      "hashes": {
+        "sha1": "983e9bfeda341f4602c28fe09a8e0f53bf641908",
+        "sha512": "31e2ccf305952aad2eef1acb80e0df8e8aa1be5a6f0a03ad5728911359eadbfa7ed078486cfb1dbe973a0184b77880cda1781733af34d2f7567b100b8ce0d0b4"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/XKPAmI6u/versions/UT2U5yfn/MTR-fabric-1.19.4-3.2.2-hotfix-1.jar"
+      ],
+      "fileSize": 62201065
+    },
+    {
+      "path": "mods/[鼠标手势] MouseTweaks-fabric-mc1.19.4-2.24.jar",
+      "hashes": {
+        "sha512": "b7e6094fc169ebc4d278f71aaca6f597020417696605e7f2736708db3a33930aeeeb22e7b3c1d052b1b5489ed88a34316fb3bc39c6a7af4ceb5090d92710fd76",
+        "sha1": "92c18017770fff5ff956d1c22c1e1f2a3fd1031a"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/aC3cM3Vq/versions/sjDYaHEo/MouseTweaks-fabric-mc1.19.4-2.24.jar"
+      ],
+      "fileSize": 77355
+    },
+    {
+      "path": "mods/fabric-carpet-1.19.4-1.4.101+v230319.jar",
+      "hashes": {
+        "sha512": "3327e5c27817e0c65429ae24ab89a2592d2d173257a61611643dff998ce0b229f983e57e2bf5cb413698a19d045ef22fcecca0c25dd877f085f015e17f3048b0",
+        "sha1": "a803dd477c1704acd3501ded6813f13d72852280"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/TQTTVgYE/versions/p5SN7luf/fabric-carpet-1.19.4-1.4.101%2Bv230319.jar"
+      ],
+      "fileSize": 1579386
+    },
+    {
+      "path": "mods/[Xaero的小地图] Xaeros_Minimap_24.7.1_Fabric_1.19.4.jar",
+      "hashes": {
+        "sha1": "16c3419b94a2cf9c94677c860fb3c2a2428908b0",
+        "sha512": "72e040952dbd4313ee12816759e0567d25425d31d4db6b4a7e7b4e498899290e8f33f28fd5018f8c2575fa6269b1f0ddae6084ee9b0fc29919f4ffec56db85ae"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/1bokaNcj/versions/DXh0pVpv/Xaeros_Minimap_24.7.1_Fabric_1.19.4.jar"
+      ],
+      "fileSize": 1650513
+    }
+  ],
+  "dependencies": {
+    "fabric-loader": "0.16.10",
+    "minecraft": "1.19.4"
+  }
+}
